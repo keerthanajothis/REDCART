@@ -1,0 +1,83 @@
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Set font family */
+  body {
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Container for the form */
+  .personal-info-container {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #987393;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top:60px;
+    
+  }
+  
+  /* Form heading */
+  .personal-info-container h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  /* Error message */
+  .error-message {
+    color: red;
+    margin-bottom: 10px;
+  }
+  
+  /* Form groups */
+  .form-group2 {
+    margin-bottom: 15px;
+  }
+  
+  /* Label for form inputs */
+  .form-group2 label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  /* Input fields */
+  .form-group2 input[type="text"],
+  .form-group2 textarea,
+  .form-group2 select {
+    width: 95%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Textarea style */
+  .form-group2 textarea {
+    min-height: 100px;
+  }
+  
+  /* Submit button */
+  .form-group2 button[type="submit"] {
+    width: 100%;
+    padding: 50px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 1em;
+    cursor: pointer;
+  }
+  
+  /* Style for select dropdown */
+  .form-group2 select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  

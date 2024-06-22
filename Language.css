@@ -1,0 +1,260 @@
+.Lang-Language {
+  max-width: 400px;
+  margin: 0 auto;
+  margin-top:150px;
+  color:#fff;
+  
+}
+
+h1 {
+  text-align: center;
+  color:#fff;
+}
+
+.language-radio label {
+  
+  margin-bottom: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: '5px' ;
+}
+
+
+
+.language-radio input[type="radio"]:checked + label:before {
+  background-color: #007bff;
+}
+
+.btn-button {
+  
+  width: 100%;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+
+.btn-button:hover {
+  background-color: #0056b3;
+}
+/*
+.Lang-Language {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.language-label {
+  margin-bottom: 10px;
+  font-size: 16px;
+  display: block;
+}
+
+.language-radio input[type="radio"] {
+  display: none;
+}
+
+.language-radio input[type="radio"] + label:before {
+  content: '';
+  display: block;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  border-radius: 50%;
+  border: 2px solid #007bff;
+  vertical-align: middle;
+}
+
+.language-radio input[type="radio"]:checked + label:before {
+  background-color: #007bff;
+}
+
+.btn-button {
+  display: block;
+  width: 100%;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  
+}
+
+.btn-button:hover {
+  background-color: #0056b3;
+}
+
+.Lang-Language {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+  height: 100vh;
+}
+
+h1 {
+  color: white;
+  padding: 20px;
+}
+
+.language-button {
+  background-color: #fff;
+  color: #007bff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.language-button:hover {
+  background-color: #ddd;
+}
+
+.btn-button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin-top: 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btn-button:hover {
+  background-color: #0056b3;
+}
+
+.Lang-Language {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.Lang-Language h1 {
+  text-align: center;
+  color: #333;
+}
+
+.Lang-Language label {
+  display: block;
+  margin-bottom: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.Lang-Language input[type="radio"] {
+  display: none;
+}
+
+.Lang-Language input[type="radio"] + label:before {
+  content: '';
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  border-radius: 50%;
+  border: 2px solid #007bff;
+  vertical-align: middle;
+}
+
+.Lang-Language input[type="radio"]:checked + label:before {
+  background-color: #007bff;
+}
+
+.Lang-Language .btn-button {
+  display: block;
+  width: 100%;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.Lang-Language .btn-button:hover {
+  background-color: #0056b3;
+}
+
+.Lang-Language {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.Lang-Language h1 {
+  text-align: center;
+  color: #333;
+}
+
+.Lang-Language label {
+  display: block;
+  margin-bottom: 10px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.Lang-Language input[type="radio"] {
+  display: none;
+}
+
+.Lang-Language input[type="radio"] + label:before {
+  content: '';
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+  border-radius: 50%;
+  border: 2px solid #007bff;
+  vertical-align: middle;
+}
+
+.Lang-Language input[type="radio"]:checked + label:before {
+  background-color: #007bff;
+}
+
+.Lang-Language .btn-button {
+  display: block;
+  width: 100%;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+
+.Lang-Language .btn-button:hover {
+  background-color: #0056b3;
+}
+
+
+.Lang-Language input[value="தமிழ்"] + label:before {
+  border-color: #FF5733; 
+}
+
+.Lang-Language input[value="English"] + label:before {
+  border-color: #33FF57; 
+}
+
+.Lang-Language input[value="తెలుగు"] + label:before {
+  border-color: #5733FF; 
+}
+*/
